@@ -1,2 +1,2 @@
 # Vector-Tester
-This is a script I made for class that coverts a function that sorts an array of int values to a function template.
+This Script is used through the process of testing some of the constructors, operators, and functions of the MyVector class.
